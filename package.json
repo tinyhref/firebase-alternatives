@@ -1,0 +1,21 @@
+{
+  "name": "firebase-alternatives",
+  "version": "0.0.0",
+  "description": "A curated collection of the best alternatives to Firebase from tinyhref.com",
+  "keywords": [
+    "firebase-alternatives",
+    "alternative",
+    "awesome",
+    "lists",
+    "tinyhref"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "tinyhref.com",
+    "website": "https://tinyhref.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinyhref/firebase-alternatives"
+  }
+}
